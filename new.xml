@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Person>
+	<name>Roman</>
+	<Surname>Motorin</Surname>
+	<Age>37</Age>
+	<City>Kyiv</Kyiv>
+	<Salary>1000usd</Salary>
+</Person>
