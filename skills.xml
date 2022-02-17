@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Skills>
+	<Catalog>
+		<API testing>Postman</API testing>
+		<Load testing>Jmeter</Load testing>
+		<DB>PostreSQl</DB>
+		<Proxy debug>Charles</Proxy debug>
+		<Bug tracking>JIRA</Bug tracking>
+		<Testcases>TestRail</Testcases>
+	</Catalog>
+</Skills>	
