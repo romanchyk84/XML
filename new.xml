@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Person>
-	<name>Roman</>
+	<name>Roman</name>
 	<Surname>Motorin</Surname>
 	<Age>37</Age>
-	<City>Kyiv</Kyiv>
+	<City>Kyiv</City>
 	<Salary>1000usd</Salary>
 </Person>
