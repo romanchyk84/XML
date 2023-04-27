@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bug_report>
   <summary>
-    <bug_ID>01</big_ID>
+    <bug_ID>01</bug_ID>
     <bug_name>BUG</bug_name>
     <bug_priority>Medium</bug_priority>
     <bug_reporter>Petrov</bug_reporter>
     <bug_assignee>Ivanov</bug_assignee>
   </summary>
-  <preconditions>do some action<preconditions>
+  <preconditions>do some action</preconditions>
   <str>
     <step1>step</step1>
     <step2>step</step2>
